@@ -1,0 +1,52 @@
+1 -> Women's Clothing 
+2 -> Plus Sizes 
+3 -> Shops & Guides 
+4 -> Women's Brands 
+5 -> Men's Clothing 
+6 -> Men's Shoes 
+7 -> Activewear 
+8 -> Featured Brands 
+9 -> Home Essentials 
+10 -> Dining & Entertaining 
+11 -> More for the Home 
+12 -> Brands 
+13 -> Bedding 
+14 -> Bath 
+15 -> Home Essentials  
+16 -> Bedroom & Mattresses 
+17 -> Women's Shoes 
+18 -> New & Trending 
+19 -> Men's Shoes 
+20 -> 30% off Winter Shoes 
+21 -> Handbag Brands 
+22 -> Handbags & Wallets 
+23 -> Accessories 
+24 -> Featured Shops 
+25 -> Makeup 
+26 -> Beauty Brands 
+27 -> Fragrance 
+28 -> Special Offers 
+29 -> Girls 
+30 -> Boys 
+31 -> Baby 
+32 -> Kids' & baby brands 
+33 -> Juniors' Clothing 
+34 -> Trendy Plus Sizes 
+35 -> Holiday Trend Report 
+36 -> Shoes, Handbags & More 
+37 -> Fine Jewelry  
+38 -> Wedding Jewelry 
+39 -> Featured Brands  
+40 -> Limited-Time Specials 
+41 -> Men's Watches 
+42 -> Watch Brands 
+43 -> Luxury Brands 
+44 -> Trends & Guides  
+45 -> Gifts For Her 
+46 -> Gifts For Him 
+47 -> Gifts For Kids 
+48 -> The Holiday Gift Guide 
+49 -> Featured Brands 
+50 -> Home Brands 
+51 -> Active Brands 
+52 -> Beauty Brands 
