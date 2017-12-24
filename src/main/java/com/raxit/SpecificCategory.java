@@ -12,7 +12,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 
 /*
- * Here in this java code, I am fetching all the items from a single category, women's clothing -> Active Wears
+ * Here in this java code, I am fetching all the items from a single category, women's clothing -> Active Wears 
  * */
 public class SpecificCategory {
 
