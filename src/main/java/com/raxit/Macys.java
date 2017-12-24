@@ -14,7 +14,10 @@ import com.gargoylesoftware.htmlunit.html.HtmlAnchor;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 
-
+/*
+ * This java class will fetch all general categories of shoping on Macy's online store
+ * 
+ */
 public class Macys {
 
 	public static void main(String a[]) throws ArrayIndexOutOfBoundsException, IOException {
