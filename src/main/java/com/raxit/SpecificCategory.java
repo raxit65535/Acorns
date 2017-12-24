@@ -11,6 +11,9 @@ import com.gargoylesoftware.htmlunit.html.HtmlAnchor;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 
+/*
+ * Here in this java code, I am fetching all the items from a single category, women's clothing -> Active Wears
+ * */
 public class SpecificCategory {
 
 	public static void main(String a[]) throws ArrayIndexOutOfBoundsException, IOException {
